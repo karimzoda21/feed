@@ -13,6 +13,7 @@
                     <category id="1">Смартфоны и планшеты</category>
                     <category id="2" parentId="1">Samsung</category>
                 </categories>
+        <enable_auto_discounts>true</enable_auto_discounts>
         <offers>
             <offer id="14101" available="true">
                 <url>
