@@ -8,10 +8,10 @@
             <currency id="TJS" rate="1"/>
         </currencies>
                  <categories>
-                    <category id="19">Наушники и аксессуары</category>
-                    <category id="89" parentId="11">Чехлы для смартфонов</category>
-                    <category id="1">Смартфоны и планшеты</category>
-                    <category id="2" parentId="0">Samsung</category>
+                    <category id="0">Наушники и аксессуары</category>
+                    <category id="1" parentId="11">Чехлы для смартфонов</category>
+                    <category id="2">Смартфоны и планшеты</category>
+                    <category id="3" parentId="0">Samsung</category>
                 </categories>
         <enable_auto_discounts>true</enable_auto_discounts>
         <offers>
