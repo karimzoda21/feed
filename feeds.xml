@@ -9,9 +9,9 @@
         </currencies>
                  <categories>
                     <category id="19">Наушники и аксессуары</category>
-                    <category id="89" parentId="19">Чехлы для смартфонов</category>
+                    <category id="89" parentId="10">Чехлы для смартфонов</category>
                     <category id="1">Смартфоны и планшеты</category>
-                    <category id="2" parentId="1">Samsung</category>
+                    <category id="2" parentId="null">Samsung</category>
                 </categories>
         <enable_auto_discounts>true</enable_auto_discounts>
         <offers>
