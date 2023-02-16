@@ -8,8 +8,8 @@
         </currencies>
         <offers>
                 <categories>
-                    <category id="naushniki-i-aksessuary">Наушники и аксессуары</category>
-                    <category id="chehly-dlya-smartfonov" parentId="naushniki-i-aksessuary">Чехлы для смартфонов</category>
+                    <category slug="naushniki-i-aksessuary">Наушники и аксессуары</category>
+                    <category slug="chehly-dlya-smartfonov" parentId="naushniki-i-aksessuary">Чехлы для смартфонов</category>
                 </categories>
             <offer id="14101" available="true">
                 <url>
@@ -23,8 +23,8 @@
                 <oldprice>99</oldprice>
             </offer>
                 <categories>
-                    <category id="smartfony-i-planshety">Смартфоны и планшеты</category>
-                    <category id="samsung" parentId="smartfony-i-planshety">Samsung</category>
+                    <category slug="smartfony-i-planshety">Смартфоны и планшеты</category>
+                    <category slug="samsung" parentId="smartfony-i-planshety">Samsung</category>
                 </categories>
             <offer id="29152" available="true">
                 <url>
