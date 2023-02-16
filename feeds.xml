@@ -22,7 +22,7 @@
                 <price>77</price>
                 <currencyId>TJS</currencyId>
                 <categoryId>89</categoryId>
-                <picture>src="https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5300/chehol-dlya-iphone-12-pro-max-clear-case-magsafe-1651812207344-xl.webp"</picture>
+                <picture>https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/5300/chehol-dlya-iphone-12-pro-max-clear-case-magsafe-1651812207344-xl.webp</picture>
                 <oldprice>99</oldprice>
             </offer>
             <offer id="29152" available="true">
