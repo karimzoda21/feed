@@ -1,0 +1,110 @@
+User-agent: *
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: Googlebot
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+
+User-agent: YandexBot
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: Slurp
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: Baiduspider
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: Bingbot
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: Applebot
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: facebot
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+User-agent: Twitterbot 
+Allow: /website/*
+Noindex: /filters/
+Disallow: /filters/
+Disallow: /search/*
+Noindex: /search/* 
+Disallow: /preview/*
+Disallow: /recently-viewed/*
+Noindex: /recently-viewed/*
+Noindex: /order/*
+Disallow: /order/*
+
+Sitemap: https://alifshop.tj/sitemap.xml
