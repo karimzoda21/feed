@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+	<title>alif shop</title>
+	<description>alifshop.tj — первый интернет-магазин в Таджикистане, в котором вы можете купить товар в рассрочку! У нас вы сможете найти большой ассортимент смартфонов, ноутбуков, бытовой техники и много другого от мировых брендов.</description>
+	<link>https://alifshop.tj/</link>
+	<item>
+		<g:id>12345</g:id>
+		<title>Samsung Galaxy A32 6/128 GB, чёрный</title>
+		<link>https://alifshop.tj/product/samsung-galaxy-a32-6-128-gb-chernyy</link>
+		<g:description>
+			<![CDATA[Коллекция: Deli, Ширина: 45см, Длина: 120см]]>
+		</g:description>
+		<g:price>2500 TJS</g:price>
+		<g:sale_price>2000 TJS</g:sale_price>
+		<g:image_link>https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/459/samsung-galaxy-a32-6-128-gb-chernyy-1636122422452-xxl.webp</g:image_link>
+		<g:image_link>https://s3.eu-central-1.amazonaws.com/alifcore.storage/media/images/alifshop/459/samsung-galaxy-a32-6-128-gb-chernyy-1663045431960-xxl.webp</g:image_link>
+		<g:brand>Samsung</g:brand>
+		<g:availability>in stock</g:availability>
+		<g:google_product_category>Каталог товаров > Смартфоны и планшеты > Samsung</g:google_product_category>
+		<g:shipping>
+			<g:country>TJK</g:country>
+			<g:price>30 TJS</g:price>
+		</g:shipping>
+	</item>
+</channel>
+</rss>
