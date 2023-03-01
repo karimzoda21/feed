@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Example - Google Store</title>
+<link>https://store.google.com</link>
+<description>This is an example of a basic RSS 2.0 document containing a single item</description>
+<item>
+<g:id>TV_123456</g:id>
+<g:title>Google Chromecast with Google TV</g:title>
+<g:description>Chromecast with Google TV brings you the entertainment you love, in up to 4K HDR</g:description>
+<g:link>https://store.google.com/product/chromecast_google_tv</g:link> <g:image_link>https://images.example.com/TV_123456.png</g:image_link> <g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>49.99 USD</g:price>
+<g:shipping>
+<g:country>US</g:country>
+<g:service>Standard</g:service>
+<g:price>7.99 USD</g:price>
+</g:shipping>
+<g:gtin>123456789123</g:gtin>
+<g:brand>Google</g:brand>
+</item>
+</channel>
+</rss>
