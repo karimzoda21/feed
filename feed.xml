@@ -5,7 +5,7 @@
 	<description>alifshop.tj — первый интернет-магазин в Таджикистане, в котором вы можете купить товар в рассрочку! У нас вы сможете найти большой ассортимент смартфонов, ноутбуков, бытовой техники и много другого от мировых брендов.</description>
 	<link>https://alifshop.tj/</link>
 	<item>
-		<g:ID>12345</g:ID>
+		<g:id>12345</g:id>
 		<item_title>Samsung Galaxy A32 6/128 GB, чёрный</item_title>
 		<final_url>https://alifshop.tj/product/samsung-galaxy-a32-6-128-gb-chernyy</final_url>
 		<g:description>
